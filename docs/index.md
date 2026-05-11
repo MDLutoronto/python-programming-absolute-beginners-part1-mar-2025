@@ -4,11 +4,10 @@ layout: "home"
 description: "This page provides a video recording of the first part of an introductory workshop series on Python."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
- - name: Kara Handren
-   link: https://library.utoronto.ca/staff/kara-handren
-created_date: 2025-01-28
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kara Handren
+      link: https://library.utoronto.ca/staff/kara-handren
 maintainer:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz 
