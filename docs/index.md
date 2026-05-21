@@ -4,16 +4,17 @@ layout: "home"
 description: "This page provides a video recording of the first part of an introductory workshop series on Python."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
- - name: Kara Handren
-   link: https://library.utoronto.ca/staff/kara-handren
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kara Handren
+      link: https://library.utoronto.ca/staff/kara-handren
 maintainer:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
- - name: Kara Handren
-   link: https://library.utoronto.ca/staff/kara-handren
-created_date: 2025-01-28
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz 
+    - name: Neil Aitken
+      link: https://library.utoronto.ca/staff/neil-aitken
+    - name: Kara Handren
+      link: https://library.utoronto.ca/staff/kara-handren
 ---
 
 # Workshop Recording: An Introduction to Programming for Absolute Beginners Using Python Pt. 1 (March 2025)
@@ -27,10 +28,10 @@ This page provides a video recording of the first part of an introductory worksh
 * **Software**: Python is free to use. We will be using [Jupyter Notebooks](https://jupyter.org/) (also free to use) for the session, which is a browser-based programming environment, so no software setup is required.
 * **Who**: This workshop is designed for absolute beginners with no previous experience with programming. Skills gained can help participants from any discipline: Humanities, Social Sciences, or Sciences.
 
-[**Recording - 1:37:57**](https://play.library.utoronto.ca/watch/b38ebfc6c8a6ac0da313b628e0300c05)**,** [**Setup Instructions**](https://maps.library.utoronto.ca/workshops/PythonPart1/SetupInstructions.pdf) **(includes how to get slides, workshop files, handouts, etc.), &** [**Solutions**](https://maps.library.utoronto.ca/workshops/PythonPart1/WorkshopSolutions.zip) **(zip folder)**
+[**Recording \- 1:37:57**](https://play.library.utoronto.ca/watch/b38ebfc6c8a6ac0da313b628e0300c05)
 
-Recording - 1:37:57
 <iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/b38ebfc6c8a6ac0da313b628e0300c05" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
+[**Setup Instructions**](https://maps.library.utoronto.ca/workshops/PythonPart1/SetupInstructions.pdf) **(includes how to get slides, workshop files, handouts, etc.) &** [**Solutions**](https://maps.library.utoronto.ca/workshops/PythonPart1/WorkshopSolutions.zip) **(zip folder)**
 
 **Tools:** [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python)
