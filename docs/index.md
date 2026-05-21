@@ -15,6 +15,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/neil-aitken
     - name: Kara Handren
       link: https://library.utoronto.ca/staff/kara-handren
+created_date: 2025-01-28
 ---
 
 # Workshop Recording: An Introduction to Programming for Absolute Beginners Using Python Pt. 1 (March 2025)
